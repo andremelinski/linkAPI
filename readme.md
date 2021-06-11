@@ -18,7 +18,7 @@ This project was developed using following technologies:
 
 ## 💻 Project
 
-This project consis in use **Node js** with **Express** to integrate the platforms **_Pipedrive and Bling_**. The API search at _Pipedrive_ for deals with **won** status, and insert them as Buy Order at _Bling_. To know the number of offers and the total made per day, the information was stored and processed using a NoSQL database (**MongoDB**).
+This project consist in use **Node js** with **Express** to integrate the platforms **_Pipedrive and Bling_**. The API search at _Pipedrive_ for deals with **won** status, and insert them as Buy Order at _Bling_. To know the number of offers and the total made per day, the information was stored and processed using a NoSQL database (**MongoDB**).
 
 ## 🚀Start the project
 
