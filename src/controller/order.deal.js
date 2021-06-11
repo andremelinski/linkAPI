@@ -19,7 +19,6 @@ module.exports = {
                          children: [
                          { name: 'nome', text: deal.org_id.name ? deal.org_id.name : 'Company' },
                          { name: 'tipoPessoa', text: 'F' },
-                         { name: 'cpf_cnpj', text: '99999999999999' },
                          { name: 'endereco', text: 'R. dos bobos' },
                          { name: 'ie_rg', text: '99999999' },
                          { name: 'numero', text: '10' },
@@ -68,11 +67,11 @@ module.exports = {
                     children: [
                          { name: 'item',
                          children: [
-                              { name: 'codigo', text: 25 },
-                              { name: 'descricao', text: `agora vai` },
+                              { name: 'codigo', text: 50 },
+                              { name: 'descricao', text: `Falha de modo random (?)` },
                               { name: 'un', text: 'Un' },
-                              { name: 'qtde', text: 7 },
-                              { name: 'vlr_unit', text: deal.value || 0 },
+                              { name: 'qtde', text: 80 },
+                              { name: 'vlr_unit', text: deal.value || 10 },
                          ]}
                     ]},
                     {
