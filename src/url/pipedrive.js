@@ -1,0 +1,1 @@
+module.exports = pipedrive_url = `https://${process.env.PIPEDRIVE_COMPANY_DOMAIN}.pipedrive.com/api/v1`;
